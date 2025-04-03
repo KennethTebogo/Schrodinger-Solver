@@ -18,7 +18,7 @@ pip install numpy matplotlib scipy
 ## Usage
 Run the Python script to solve the Schrödinger equation and visualize the results:
 ```bash
-python deuteron_solver.py
+python deuteron_schrodinger.py
 ```
 
 ## Code Explanation
